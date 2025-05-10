@@ -15,6 +15,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Square_Tailwind from './SS7_UI_Framework/Square_Tailwind'
 import FlexTailwind from './SS7_UI_Framework/FlexTailwind'
 import Table_Tailwind from './SS7_UI_Framework/Table_Tailwind'
+import Login from './Ex05/Login'
 
 function App() {
  
@@ -33,8 +34,9 @@ function App() {
       {/* <DemoReactBootstrap></DemoReactBootstrap> */}
       {/* <Demo_Antd_Design></Demo_Antd_Design> */}
       {/* <Square_Tailwind></Square_Tailwind> */}
-      <FlexTailwind></FlexTailwind>
+      {/* <FlexTailwind></FlexTailwind> */}
       {/* <Table_Tailwind></Table_Tailwind> */}
+      <Login/>
 
     </>
   )

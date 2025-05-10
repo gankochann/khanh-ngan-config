@@ -44,7 +44,6 @@ export default function FlexTailwind() {
           <button className='bg-blue-500 hover:bg-blue-700 text-white w-[50px] h-[50px] rounded'>o2</button>
           <button className='bg-blue-500 hover:bg-blue-700 text-white w-[50px] h-[50px] rounded'>o3</button>
         </div>
-
     </div>
   )
 }
